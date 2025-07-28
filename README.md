@@ -6,6 +6,5 @@ I'm **Kire**, a frontend developer whose path from **military aviation** → **e
 - ♿ a11y advocate + WCAG compliance nerd
 - 🌈 people-first code
 - 🦋 atproto curious
-- 🌍 seeking remote opportunities with global teams
 
 **[get to know me a little better at kgo.lol](https://kgo.lol)**
