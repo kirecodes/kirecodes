@@ -1,5 +1,10 @@
 # nice to meet you
-I'm **Kire**, a frontend developer whose path from **military aviation** → **emergency medicine** → **international education** → **tech** brings unique problem-solving and precision to building secure, accessible web applications.
+I'm **Kire**, a frontend developer who took the scenic route to get here.
+
+## how it started → how it's going
+
+**origins:** military aviation → emergency medicine → international education 
+**currently:** web desinger → frontend developer
 
 ## about me
 - 🌿 learning react + typescript
