@@ -1,10 +1,11 @@
 # nice to meet you
-I'm **Kire** (kee-day), a frontend developer building user-focused applications at a national lab.
+I'm **Kire** (kee-day), a frontend developer whose path from **military aviation** → **emergency medicine** → **international education** → **tech** brings unique problem-solving and precision to building secure, accessible web applications.
 
-## more about me
+## about me
 - 🌿 learning react + typescript
 - ♿ a11y advocate + WCAG compliance nerd
 - 🌈 people-first code
 - 🦋 atproto curious
+- 🌍 seeking remote opportunities with global teams
 
-[website: kgo.lol](https://kgo.lol/)
+**[get to know me a little better at kgo.lol](https://kgo.lol)**
