@@ -1,10 +1,8 @@
 # nice to meet you
 I'm **Kire**, a frontend developer who took the scenic route to get here.
 
-## how it started → how it's going
-
-**origins:** military aviation → emergency medicine → international education 
-**currently:** web desinger → frontend developer
+## the scenic route in question
+** military aviation → emergency medicine → international education → frontend developer
 
 ## about me
 - 🌿 learning react + typescript
