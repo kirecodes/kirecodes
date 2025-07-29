@@ -2,7 +2,7 @@
 I'm **Kire**, a frontend developer who took the scenic route to get here.
 
 ## the scenic route in question
-** military aviation → emergency medicine → international education → frontend developer
+military aviation → emergency medicine → international education → frontend developer
 
 ## about me
 - 🌿 learning react + typescript
