@@ -1,16 +1,17 @@
-## Hi there 👋
+# i'm kire
 
-<!--
-**kirecodes/kirecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## full-stack developer, digital rights advocate, global citizen
 
-Here are some ideas to get you started:
+currently: building accessible government web experiences at a national lab  
+next: seeking remote opportunities with mission-driven organizations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## what I bring
+- 💖 **privacy-first engineering** from handling sensitive government data
+- 💖 **global perspective** + trilingual communication (English/Spanish/ASL)
+- 💖 **accessibility advocate** - WCAG compliance nerd who builds for everyone
+- 💖 **crisis-tested problem solving** from literal life-or-death situations
+- 💖 **full-stack experience** from learning platforms to national lab systems
+
+**looking for:** mission-driven companies advancing digital rights, privacy, and global impact
+
+**[get to know me a little better at kgo.lol](https://kgo.lol)**
