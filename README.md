@@ -12,6 +12,6 @@ next: seeking remote opportunities with mission-driven organizations
 - 💖 **crisis-tested problem solving** from literal life-or-death situations
 - 💖 **full-stack experience** from learning platforms to national lab systems
 
-**looking for:** mission-driven companies advancing digital rights, privacy, and global impact
+**looking for** mission-driven companies advancing digital rights, privacy, and global impact
 
-**[get to know me a little better at kgo.lol](https://kgo.lol)**
+**[more at kgo.lol](https://kgo.lol)**
